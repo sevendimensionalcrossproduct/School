@@ -7,6 +7,7 @@ Activity: Quiz 3
 Class: CISC 211_60842
 
 Factorials to be calculated:
+
     5! = 120
     6! = 720
     0! = 1
